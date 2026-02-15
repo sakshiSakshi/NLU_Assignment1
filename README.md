@@ -38,6 +38,7 @@ How to Run
 
 # Clone the repository
 git clone https://github.com/sakshiSakshi/NLU_Assignment1.git
+Load the requirements.txt file and install the dependencies using : pip install -r requirements.txt
 
 And run in your terminal, alternatively, you can download the Colab notebook, the ipynb file, and run in Google Colab.
 
