@@ -37,7 +37,7 @@ You can see the side-by-side results in the charts—model comparison and confus
 How to Run
 
 # Clone the repository
-git clone https://github.com/yourusername/sports-politics-classifier
+git clone https://github.com/sakshiSakshi/NLU_Assignment1.git
 
 And run in your terminal, alternatively, you can download the Colab notebook, the ipynb file, and run in Google Colab.
 
